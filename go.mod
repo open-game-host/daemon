@@ -1,3 +1,3 @@
-module open-game-host-daemon
+module ogh-daemon/m/v2
 
-go 1.25.5
+go 1.26.7

@@ -4,11 +4,11 @@ Runs your OGH services and reports back to the backend!
 
 ## About
 
-*Coming soon!*
+_Coming soon!_
 
 ## Install
 
-*Coming soon!*
+_Coming soon!_
 
 ## Contribute
 
@@ -16,7 +16,7 @@ We love contributors, and are happy to hear any suggestions, bug reports, featur
 
 ## License
 
-The *Open Game Host* project is licensed under the [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
+The _Open Game Host_ project is licensed under the [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0) license.
 
 ```text
 Copyright 2025 Gavin Smith
@@ -30,6 +30,6 @@ You may obtain a copy of the License at
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and 
+See the License for the specific language governing permissions and
 limitations under the License.
 ```
