@@ -1,6 +1,6 @@
 # Open Game Host Daemon
 
-Runs your OGH services and reports back to the backend!
+Run services on your machine using OGH!
 
 ## About
 
